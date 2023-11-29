@@ -3,7 +3,7 @@ import React, {
  useMemo,
  useState,
  useContext,
- ReactNode, } from "react";
+ ReactNode } from "react";
 import noop from "lodash/noop";
 
 type MenuIds = "first" | "second" | "last";
